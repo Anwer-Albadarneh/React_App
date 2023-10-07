@@ -1,89 +1,143 @@
 [
-
-    {
-    
-        "image_url": "https://m.media-amazon.com/images/I/51iJx7YWDOL._AC_UF894,1000_QL80_.jpg",
-    
-        "title": "iPhone 14",
-    
-        "description": "The iPhone 14 adds one additional core to the GPU (five cores) processor, utilizes e-SIM technology, sports slightly better battery life, and has Apple's new safety features like satellite connectivity for emergency communications and crash detection.",
-    
-        "category": "Electronics",
-    
-        "price": 1400
-    
-      },
-    
+  {
+    "title": "Paris, France",
+    "image_url": "https://a.storyblok.com/f/55469/1176x732/5859b6adfa/fr_-_2022.png",
+    "description": "The City of Light is known for its romantic ambiance, world-class art, and gourmet cuisine.",
+    "restaurants": [
       {
-    
-        "image_url": "https://m.media-amazon.com/images/I/6172+HY8EML.jpg",
-    
-        "title": "7 inch Dog Frisbee",
-    
-        "description": "Take your furry friend to the park and play the day away with this 7 inch Dog Safe Flyer!",
-    
-        "category": "accessories",
-    
-        "price": 1.5
-    
+        "name": "Le Jules Verne",
+        "type": "French",
+        "rating": 4.5,
+        "address": "Eiffel Tower, Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France"
       },
-    
-          {
-    
-        "image_url": "https://static.thcdn.com/images/xsmall/original//productimg/original/12795023-3284851799803111.jpg",
-    
-        "title": "Android Matrix Tee White",
-    
-        "description": "The unique design and soft tri-blend material make for a perfect combination for this Android Matrix Tee. Unisex sizing",
-    
-        "category": "clothes",
-    
-        "price": 18
-    
-      },
-    
       {
-    
-        "image_url": "https://penvibe.com/wp-content/uploads/2015/07/Google-Maze-Pen.jpg",
-    
-        "title": "Google Light Pen Blue",
-    
-        "description": "Get yourself a great multitasking tool! Write a note, sign a tablet, and light up with this Google Light Pen!",
-    
-        "category": "office",
-    
-        "price": 2
-    
-      },
-    
+        "name": "Chez L'Ami Jean",
+        "type": "French",
+        "rating": 4.3,
+        "address": "27 Rue Malar, 75007 Paris, France"
+      }
+    ],
+    "hotels": [
       {
-    
-        "image_url": "https://www.alphamega.com.cy/Admin/Public/GetImage.ashx?Width=800&Height=800&Crop=5&DoNotUpscale=True&FillCanvas=True&Image=/Files/Images/Ecom/Products/858358.jpg&AlternativeImage=/Images/missing_image.jpg",
-    
-        "title": "Thermal Bottle White",
-    
-        "description": "Insulated to keep contents hot or cold for hours, this Google bottle is a great year-round companion. 17 oz.",
-    
-        "category": "drinkware",
-    
-        "price": 12
-    
+        "name": "The Ritz Paris",
+        "rating": 4.6,
+        "address": "15 Place Vendôme, 75001 Paris, France"
       },
-    
-     
-    
-    {
-    
-        "image_url": "https://cdn11.bigcommerce.com/s-n8duk1dboc/images/stencil/1280x1280/products/1670/13588/26583-A460-CRY__65012.1665515048.png?c=2",
-    
-        "title": "Fold-over Beanie Grey",
-    
-        "description": "Keep you ears warm while enjoying a cold winter day with this Google Fold-over Beanie.",
-    
-        "category": "clothes" ,
-    
-        "price": 15
-    
-    }
-    
+      {
+        "name": "Hotel Le Meurice",
+        "rating": 4.5,
+        "address": "228 Rue de Rivoli, 75001 Paris, France"
+      }
     ]
+  },
+    {
+      
+      "title": "New York City, USA",
+      "image_url": "https://example.com/nyc.jpg",
+      "description": "Experience the vibrant energy of New York City, with iconic landmarks like Times Square, Central Park, and the Statue of Liberty.",
+      "price": "1500"
+    },
+    {
+      "title": "Cape Town, South Africa",
+      "image_url": "https://example.com/capetown.jpg",
+      "description": "Enjoy the breathtaking landscapes of Cape Town, from the iconic Table Mountain to the beautiful beaches along the coast.",
+      "price": "1300"
+    },
+    {
+      "title": "Sydney, Australia",
+      "image_url": "https://example.com/sydney.jpg",
+      "description": "Visit the stunning Sydney Opera House, relax on Bondi Beach, and explore the unique wildlife of Australia.",
+      "price": "1600"
+    },
+    {
+      "title": "Rio de Janeiro, Brazil",
+      "image_url": "https://example.com/rio.jpg",
+      "description": "Experience the lively culture of Rio de Janeiro, with its famous Carnival, beautiful beaches, and the iconic Christ the Redeemer statue.",
+      "price": "1400"
+    },
+    {
+      "title": "Barcelona, Spain",
+      "image_url": "https://example.com/barcelona.jpg",
+      "description": "Discover the architectural wonders of Barcelona, from the Sagrada Familia to the historic Gothic Quarter.",
+      "price": "1100"
+    },
+    {
+      "title": "Tokyo, Japan",
+      "image_url": "https://example.com/tokyo.jpg",
+      "description": "Immerse yourself in the futuristic and traditional aspects of Tokyo, from high-tech districts to serene temples.",
+      "price": "1700"
+    },
+    {
+      "title": "Venice, Italy",
+      "image_url": "https://example.com/venice.jpg",
+      "description": "Experience the charm of Venice with its romantic canals, historic architecture, and vibrant local culture.",
+      "price": "1250"
+    },
+    {
+      "title": "Dubai, UAE",
+      "image_url": "https://example.com/dubai.jpg",
+      "description": "Explore the modern and luxurious city of Dubai, known for its skyscrapers, shopping, and desert adventures.",
+      "price": "1800"
+    },
+    {
+      "title": "Marrakech, Morocco",
+      "image_url": "https://example.com/marrakech.jpg",
+      "description": "Discover the vibrant colors and bustling souks of Marrakech, with its historic palaces and lively street markets.",
+      "price": "1350"
+    },
+    {
+      "title": "London, UK",
+      "image_url": "https://example.com/london.jpg",
+      "description": "Explore the rich history and cultural diversity of London, from the Tower of London to the West End theaters.",
+      "price": "1550"
+    },
+    {
+      "title": "Amsterdam, Netherlands",
+      "image_url": "https://example.com/amsterdam.jpg",
+      "description": "Experience the picturesque canals and vibrant nightlife of Amsterdam, known for its museums and historic architecture.",
+      "price": "1450"
+    },
+    {
+      "title": "Prague, Czech Republic",
+      "image_url": "https://example.com/prague.jpg",
+      "description": "Discover the fairy-tale charm of Prague with its historic Old Town Square, castle, and iconic Charles Bridge.",
+      "price": "1280"
+    },
+    {
+      "title": "Singapore",
+      "image_url": "https://example.com/singapore.jpg",
+      "description": "Explore the modern city-state of Singapore, known for its futuristic architecture, diverse cuisine, and green spaces.",
+      "price": "1650"
+    },
+    {
+      "title": "Bali, Indonesia",
+      "image_url": "https://example.com/bali.jpg",
+      "description": "Relax on the beautiful beaches of Bali, explore ancient temples, and experience the unique Balinese culture.",
+      "price": "1400"
+    },
+    {
+      "title": "Athens, Greece",
+      "image_url": "https://example.com/athens.jpg",
+      "description": "Discover the ancient history of Athens, with iconic landmarks like the Acropolis and Parthenon.",
+      "price": "1200"
+    },
+    {
+      "title": "Cairo, Egypt",
+      "image_url": "https://example.com/cairo.jpg",
+      "description": "Explore the historic city of Cairo, home to the Pyramids of Giza and the Sphinx.",
+      "price": "1500"
+    },
+    {
+      "title": "Stockholm, Sweden",
+      "image_url": "https://example.com/stockholm.jpg",
+      "description": "Experience the modern design and historic charm of Stockholm, known for its archipelago and cultural attractions.",
+      "price": "1350"
+    },
+    {
+      "title": "Hanoi, Vietnam",
+      "image_url": "https://example.com/hanoi.jpg",
+      "description": "Discover the vibrant street life and rich history of Hanoi, with its ancient temples and delicious street food.",
+      "price": "1250"
+    }
+  ]
+
